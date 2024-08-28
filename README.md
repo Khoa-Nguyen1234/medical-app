@@ -11,3 +11,6 @@ git push -u origin main
 git remote add origin https://github.com/Khoa-Nguyen1234/medical-app.git
 git branch -M main
 git push -u origin main
+
+npm install @headlessui/react@latest
+npm install @heroicons/react
